@@ -1,0 +1,3 @@
+Species,Strain,Phylum,SubPhylum,Prefix,Transcripts,BUSCO,SBT
+Acarospora socialis,PC_2,Ascomycota,Pezizomycotina,ASOCPC,Lecanoromycetes.CDS,pezizomycotina_odb9,A_socialis_metagenome.sbt
+Acarospora socialis,BSP_2,Ascomycota,Pezizomycotina,ASOCBSP,Lecanoromycetes.CDS,pezizomycotina_odb9,A_socialis_metagenome.sbt
